@@ -2,19 +2,20 @@
 
 A 3-key macropad built around a Seeed XIAO RP2040. Each key is wired straight to its own pin, so the board needs no diodes.
 
-![Hackpad](images/hackpad.png)
+<img src="images/Screenshot%20From%202026-10-06%2014-55-26.png" width="600">
 
 ## Schematic
-![Schematic](images/schematic.png)
+<img src="images/Screenshot%20From%202026-10-06%2014-43-29.png" width="600">
 
 ## PCB
-![PCB](images/pcb.png)
-![PCB 3D view](images/pcb-3d.png)
+<img src="images/Screenshot%20From%202026-10-06%2014-43-57.png" width="600">
+<img src="images/Screenshot%20From%202026-10-06%2014-44-30.png" width="600">
 
 ## Case
 A 3D printed base with a USB-C notch in the back wall, and a switch plate with three 14 mm holes.
 
-![Case](images/case.png)
+<img src="images/Screenshot%20From%202026-10-06%2014-45-12.png" width="600">
+<img src="images/Screenshot%20From%202026-10-06%2014-45-26.png" width="600">
 
 ## Firmware
 KMK firmware in `Firmware/main.py`. SW1, SW2 and SW3 are on pins D10, D9 and D8.
