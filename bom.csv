@@ -1,0 +1,8 @@
+Item,Description,Quantity,Unit price (USD),Total (USD),Link,Notes
+Seeed Studio XIAO RP2040,Microcontroller for the macropad,1,6.12,6.12,https://www.robotshop.com/products/seeedstudio-seeed-studio-xiao-rp2040-supports-arduino-micropython-circuitpython,Soldered to the back of the PCB with its USB-C port past the board edge
+Kailh MX-style switches (10-pack),Only 3 are used (SW1-SW3),1,6.95,6.95,https://www.adafruit.com/product/4996,Any Cherry MX-compatible switch fits; the pack has spares
+DSA keycaps (single blank),One per switch,3,1.40,4.20,https://www.kromekeycaps.com/products/single-blank-dsa-pbt-keycaps,Listed at 1.07 GBP each; USD price is approximate
+M3 heat set inserts (100-pack),4 used in the case,1,10.99,10.99,https://www.prusa3d.com/en/product/threaded-inserts-m3-standard-100-pcs/,Only 4 are used; the pack has spares
+M3x8 socket head screws (100-pack),4 used to close the case,1,15.85,15.85,https://www.zoro.com/titan-fasteners-m3-x-05-x-8mm-socket-head-cap-screw-304-stainless-steel-pkg-of-100-bsw03008/i/G408426669/,Any M3x8 screw works; the pack has spares
+PCB (hackpad),65 x 64 mm 2-layer board - minimum order is 5 pieces,1,2.00,2.00,https://jlcpcb.com/,Upload production/gerbers.zip; price is JLCPCB's 5-piece starting price - shipping is extra
+3D printed case (base + plate),Two printed parts - production/Base.step and production/Plate.step,1,6.00,6.00,https://jlc3dp.com/3d-printing-quote,Upload both STEP files for an exact quote; 6.00 is my estimate - shipping is extra
