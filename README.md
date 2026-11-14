@@ -8,7 +8,7 @@ A 3-key macropad built around a Seeed XIAO RP2040. Each key is wired straight to
 <img src="images/Screenshot%20From%202026-10-06%2014-43-29.png" width="600">
 
 ## PCB
-The XIAO sits on the back of the board at the top edge, so its USB-C port sticks out past the board outline and a cable can be plugged straight in.
+The XIAO sits on the back of the board at the top edge, so its USB-C port sticks out past the board outline and a cable can be plugged straight in. Traces turn at 45 degrees, there is silkscreen art on the front, and four 3.2 mm holes in the corners locate the board in the case.
 
 <img src="images/pcb-layout.png" width="600">
 <img src="images/pcb-top.png" width="600">
@@ -16,8 +16,11 @@ The XIAO sits on the back of the board at the top edge, so its USB-C port sticks
 ## Case
 A 3D printed base with a USB-C notch in the back wall, and a switch plate with three 14 mm holes.
 
-<img src="images/Screenshot%20From%202026-10-06%2014-45-12.png" width="600">
-<img src="images/Screenshot%20From%202026-10-06%2014-45-26.png" width="600">
+- The PCB sits on four round standoffs. A 3 mm peg on each standoff goes through the PCB corner holes, so the board cannot slide.
+- Four M3 heat set inserts go in the top of the wall corners of the base. Four M3x8 screws pass through counterbored holes in the plate and into the inserts to close the case.
+
+<img src="images/case-exploded.png" width="600">
+<img src="images/case-base.png" width="600">
 
 ## Firmware
 KMK firmware in `Firmware/main.py`. SW1, SW2 and SW3 are on pins D10, D9 and D8.
